@@ -1,0 +1,83 @@
+#mainjogos {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    
+    padding-right: 200px;
+    padding-left: 200px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#divima1 {
+    
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #4e4d4d;
+    width: 400px;
+    height: 400px;
+}
+
+#divima4 {
+    width: 380px;
+    height: 300px;
+}
+
+#divima2 {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #4e4d4d;
+    width: 400px;
+    height: 400px;
+}
+
+#divima5 {
+    width: 380px;
+    height: 300px;
+}
+
+#divima3 {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: #4e4d4d;
+    width: 400px;
+    height: 400px;
+}    
+
+#divima6 {
+    width: 380px;
+    height: 300px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.a1 {
+    text-decoration: none;
+    color: white;
+}
+
+.a1:hover {
+    background-color: white;
+    color: black;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+
+}

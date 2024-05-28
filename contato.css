@@ -1,0 +1,77 @@
+#maincontatos {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 200px;
+    padding-left: 200px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#divform {
+    
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 1px solid white;
+    width: 300px;
+    height: 235px;
+}
+
+input {
+    background-color: black;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    width: 283px;
+    height: 40px;
+}
+
+#buttoncontato {
+    width: 283px;
+    height: 40px;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+#buttoncontato:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 15px;
+    transition: 0.5s;
+
+}
+
+.a1 {
+    text-decoration: none;
+    color: white;
+}
+
+.a1:hover {
+    background-color: white;
+    color: black;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+
+}

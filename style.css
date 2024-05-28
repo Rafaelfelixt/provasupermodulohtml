@@ -1,0 +1,153 @@
+body {
+    background-color: #111111;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6px;
+    align-items: center;
+}    
+
+#p1 {
+    display: flex;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 65px;
+    font-family: "Bebas Neue", sans-serif;
+    
+
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 35px;
+    font-family: "Bebas Neue", sans-serif;
+    list-style: none;
+}
+
+
+main {
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+}
+
+h1 {
+    display: flex;
+    font-size: 65px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+#p2 {
+    display: flex;
+    margin-right: 350px;
+    margin-left: 350px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+button {
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+button:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 15px;
+    transition: 0.5s;
+
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+}
+
+#divrodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    gap: 15px;
+    
+}
+
+#ima1 {
+    align-items: center;
+    background-color: white;
+    border-radius: 90px;
+    
+}
+
+#ima2 {
+    align-items: center;
+    background-color: white;
+    border-radius: 9px;
+    
+}
+
+#ima3 {
+    align-items: center;
+    background-color: white;
+    border-radius: 9px;
+    
+}
+
+.a1 {
+    text-decoration: none;
+    color: white;
+}
+
+.a1:hover {
+    background-color: white;
+    color: black;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+
+}
+
